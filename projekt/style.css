@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+p, h2 {
+    color: black;
+    font-family: 'Roboto';
+    line-height: 150%;
+
+}
+
+.description {
+    color: red;
+}
+
+h1 {
+    color: green;
+    font-family: 'Agbalumo';
+    font-size: 4em;
+}
+
+img {
+    opacity: 0.5;
+    width: 100px;
+}
+
+.hero {
+    max-width: 300px;
+}
+
